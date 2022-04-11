@@ -1,0 +1,19 @@
+Trading-Broker-1,Strategy-A,BTC,Buy,100,56902.81,01-April-2022
+Trading-Broker-1,Strategy-A,ETH,Fail,Null,Null,01-April-2022
+Trading-Broker-1,Strategy-A,BTC,Buy,100,56902.81,01-April-2022
+Trading-Broker-1,Strategy-A,BTC,Buy,100,56902.81,01-April-2022
+kk,Strategy-A,BTC,Buy,100,57943.25,02-April-2022
+kk,Strategy-A,BTC,Buy,100,57943.25,02-April-2022
+kk,Strategy-C,BTC,Buy,20,57943.25,02-April-2022
+kk,Strategy-C,BTC,Buy,20,57943.25,02-April-2022
+kk,Strategy-A,ADA,Fail (Strategy Cannot Apply),Null,Null,02-April-2022
+kk,Strategy-A,BTC,Buy,100,57943.25,02-April-2022
+kk,Strategy-A,ADA,Fail (strategy not applied),Null,Null,02-April-2022
+kk,Strategy-A,BTC,Buy,100,57943.25,02-April-2022
+kk,Strategy-A,ETH,Fail (strategy not applied),Null,Null,02-April-2022
+Tom,Strategy-C,BTC,Buy,20,57407.2,03-April-2022
+Sam,Strategy-A,BTC,Buy,100,57407.2,03-April-2022
+Tom,Strategy-A,BTC,Buy,100,57407.2,03-April-2022
+King,Strategy-B,ETH,Fail (strategy not applied),Null,Null,03-April-2022
+Baby,Strategy-A,ADA,Fail (strategy not applied),Null,Null,03-April-2022
+kk,Strategy-A,ADA,Fail (strategy not applied),Null,Null,03-April-2022

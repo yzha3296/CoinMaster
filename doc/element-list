@@ -1,0 +1,8 @@
+cryptoTrader.entity
+cryptoTrader.entity.strategy
+cryptoTrader.gui
+cryptoTrader.service.login
+cryptoTrader.service.resultVisualization
+cryptoTrader.service.trading
+cryptoTrader.utils
+cryptoTrader.utils.strategyOperations
